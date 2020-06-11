@@ -1,0 +1,38 @@
+@font-face {
+    font-family:"mimi";
+    src: url(fonts/WIZZARD.TTF);
+    font-weight: 300;  
+}
+html {
+    text-transform: uppercase;
+}
+
+body {
+    background-color: ivory;
+    font-family: "mimi";
+
+}
+h1 {
+    color: deeppink;
+    font-size: 32px;
+    text-align: center;
+    
+}
+h2 {
+    color: rgb(125, 180, 52);
+    font-size: 24px;
+    text-align: center;
+    
+}
+li {
+    color: darkviolet;
+    font-size: 20px;
+
+  
+}
+img {
+    width: 300px;
+    margin: 50px;
+
+    
+}
