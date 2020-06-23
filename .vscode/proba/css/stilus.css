@@ -1,0 +1,59 @@
+@font-face {
+    font-weight: 300;  
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@100;300;500&display=swap');
+    }
+html {
+
+    text-transform: normal;
+}
+
+body {
+    background-color: ivory;
+    font-family: 'Open', sans-serif;
+}
+h1 {
+    color: deeppink;
+    font-size: 32px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: solid;
+    
+}
+h3 {
+    font-family: 'Roboto' , sans-serif;
+}
+#bio-header {
+    color: darkolivegreen;
+
+}
+#skills-header {
+    color: darkorchid;
+
+
+}   
+.content {
+color: darkslateblue;
+    font-size: 20px;
+    font-family: 'Open+Sans', sans-serif; 
+    margin-top: 20px;
+    border-top: solid 2px gray;
+    padding: 20px;
+    max-width: 75%;
+
+   
+}
+.bold {
+    font-weight: bold;
+}
+.img-div {
+    background-color: lavenderblush;
+}
+img {
+    width: 11%;
+    box-shadow: black 4px 4px 8px;
+    margin: 2.5%; 
+}
+#img-1 {
+    position: fixed;
+
+}

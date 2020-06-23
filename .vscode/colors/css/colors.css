@@ -1,0 +1,12 @@
+#colors-div {
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(250, 250, 255);
+
+}
+html {
+    background-image: 
+    url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png"),
+    url("https://amymhaddad.s3.amazonaws.com/oriental-tiles.png") no-repeat;
+}
